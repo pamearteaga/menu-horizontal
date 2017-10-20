@@ -1,0 +1,59 @@
+
+/*
+
+color fondo #2e2e2a
+color hover #f9a91a
+
+*/
+
+
+body{
+
+	font-family: sans-serif;
+	padding-left: 30px;
+}
+
+nav{
+
+
+
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    display: block;
+
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+    background-color: #f9a91a;
+
+}
+
+
+
+li{
+
+	width: 100px;
+	/*display: inline-block;*/
+	text-align: center;
+	float: left;
+
+}
+
+
+
+ul{
+
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	background-color: #2e2e2a;
+	line-height: 40px;
+	overflow: auto;
+}
+
